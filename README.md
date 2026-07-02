@@ -1,4 +1,4 @@
-Brent-WTI Commodity Analysis | Python
+# Brent-WTI Commodity Analysis | Python
 A growing portfolio of quantitative commodity market models built during the IBM Data Science Professional Certificate. All models are fed by a centralised data pipeline covering 15 commodities from 2019 to present.
 Models included:
 
